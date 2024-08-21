@@ -82,9 +82,3 @@ Contributions are welcome! Please follow these steps to contribute:
     Push your changes to your fork.
     Submit a pull request to the main repository.
 
-License
-
-This project is licensed under the MIT License.
-Acknowledgments
-
-    Inspired by common date formatting tasks in software development.
